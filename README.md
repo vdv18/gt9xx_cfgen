@@ -1,4 +1,5 @@
 # gt9xx touch driver configuration generator
+## tested on SQ-PG71088-FPC-A2
 ## instruction to build the utility
     $ cd gt9xx_cfgen
     $ mkdir -p build && cd ./build
